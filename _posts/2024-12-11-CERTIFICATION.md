@@ -1,22 +1,12 @@
 ---
 layout: post
-title: "Hello"
+title: # CERTIFICATION
 date: 2024-12-11
 categories: [NLP, AI, ML, REVIEWS, PUBLICATIONS, CERTIFICATIONS]
 tags: [like, comment, subscribe]
 ---
 
-# Welcome to My Blog
 
-This is my first blog post about **NLP**. Please like, comment, and subscribe for more updates!
-
-
-## LOW-RESOURCE LANGUAGES: A Brief Overview
-
-```Low-resource languages are languages that lack the digital resources and tools necessary for advanced computational processing. These languages often face challenges in Natural Language Processing (NLP), Machine Learning (ML), and Artificial Intelligence (AI) due to limited availability of text corpora, linguistic tools, and annotated datasets.
-```
-
-### CERTIFICATION
 
 **Natural Language Processing in TensorFlow**  
 *Issued by Coursera, in collaboration with DeepLearning.AI*  

@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: COMPUTER SCIENTIST # the main title
+title: SUKAIRAJ HAFIZ IMAM # the main title
 
-tagline: NLP, AI, ML # it will display as the subtitle
+tagline: Computer Science (PhD (in-view), M.Sc, B.Sc) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sukairaj Hafiz
+  name: Sukairaj Hafiz Imam
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark 
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
